@@ -1,0 +1,79 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\Client MVC.dll.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\Client MVC.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\Client MVC.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\csc.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\csc.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\csc.rsp
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\csi.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\csi.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\csi.rsp
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.AppContext.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Console.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.IO.Compression.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Net.Http.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Net.Sockets.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.ValueTuple.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Xml.XPath.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\vbc.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\vbc.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\vbc.rsp
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\VBCSCompiler.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\DataLayer.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\EntityFramework.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\EntityFramework.SqlServer.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\System.Web.Helpers.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\System.Web.Mvc.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\System.Web.Razor.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\System.Web.Webpages.Deployment.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\System.Web.Webpages.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\System.Web.Webpages.Razor.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\DataLayer.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\DataLayer.dll.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\EntityFramework.xml
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\EntityFramework.SqlServer.xml
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\System.Web.Razor.xml
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\System.Web.Webpages.xml
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\System.Web.Webpages.Deployment.xml
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\System.Web.Webpages.Razor.xml
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\System.Web.Helpers.xml
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\System.Web.Mvc.xml
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\obj\Debug\Client MVC.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\obj\Debug\Client MVC.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\obj\Debug\Client MVC.csproj.CopyComplete
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\obj\Debug\Client MVC.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\Client MVC\obj\Debug\Client MVC.pdb

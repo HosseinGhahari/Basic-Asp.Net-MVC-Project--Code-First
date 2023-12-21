@@ -1,0 +1,14 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\DataLayer\bin\Debug\DataLayer.dll.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\DataLayer\bin\Debug\DataLayer.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\DataLayer\bin\Debug\DataLayer.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\DataLayer\bin\Debug\EntityFramework.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\DataLayer\bin\Debug\EntityFramework.xml
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\DataLayer\obj\Debug\DataLayer.Migrations.MyCodeFirst_DB.resources
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\DataLayer\obj\Debug\DataLayer.dll
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Madaeni - Advance\Code First Approach\DataLayer\obj\Debug\DataLayer.pdb
